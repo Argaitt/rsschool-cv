@@ -1,4 +1,4 @@
-#Junior developer resume
+# Junior developer resume
 1. Timaphei Sokolovsky
 2. phone +375291862814
 3. I wanna will get money and doing my favorite job("best job is ur hobby"). I is important for me. thats all.
