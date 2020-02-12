@@ -1,0 +1,9 @@
+body{
+   background-color: red;
+}
+main{
+    display: block;
+    margin: auto;
+    background-color: royalblue;
+    width: 1024px;
+}
